@@ -1,0 +1,1 @@
+To run: java ShortestPath -p 100000 5 10 15 20 50 -f tests/maze27x9.txt tests/maze40x40.txt tests/maze60x100.txt tests/maze75x75.txt tests/maze80x120.txt tests/maze85x120.txt tests/maze86x118.txt tests/maze87x119.txt tests/maze173x237.txt
