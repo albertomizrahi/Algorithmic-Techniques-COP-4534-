@@ -1,0 +1,1 @@
+To run: java BipartiteMatching tests/friends0.txt tests/friends1.txt tests/friends2.txt tests/friends3.txt tests/friends4.txt tests/friends5.txt tests/friends6.txt tests/friends7.txt tests/friends8.txt
