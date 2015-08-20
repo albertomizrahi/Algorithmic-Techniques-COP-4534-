@@ -1,0 +1,7 @@
+top1.txt: v6 -> v12 -> v1 -> v15 -> v18 -> v11 -> v2 -> v7 -> v17 -> v4 -> v9 -> v5 -> v10 -> v13 -> v3 -> v8 -> v19 -> v16 -> v20 -> v14 (1 ms. to finish)
+top2.txt: graph has a cycle: v3 -> v26 -> v3 (14 ms. to finish)
+top3.txt: graph has a cycle: v700 -> v953 -> v952 -> v719 -> v801 -> v700 (6 ms. to finish)
+top4.txt: graph has a cycle: v3120 -> v7207 -> v6054 -> v1715 -> v6653 -> v2556 -> v3074 -> v5002 -> v103 -> v505 -> v6775 -> v3120 (51 ms. to finish)
+top5.txt: graph has a cycle: v91017 -> v67163 -> v97914 -> v57703 -> v83785 -> v75743 -> v10642 -> v29684 -> v92465 -> v21981 -> v89403 -> v18566 -> v81701 -> v27227 -> v74903 -> v91017 (309 ms. to finish)
+top6.txt: graph has a cycle: v1434999 -> v1386046 -> v1576772 -> v1471064 -> v823980 -> v1650594 -> v881987 -> v1997346 -> v1350337 -> v1623749 -> v636705 -> v919942 -> v1141066 -> v1948269 -> v630528 -> v309810 -> v1939350 -> v285860 -> v1434999 (7188 ms. to finish)
+BUILD SUCCESSFUL (total time: 30 seconds)
